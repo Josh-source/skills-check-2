@@ -1,0 +1,1 @@
+UPDATE house SET description = $2 WHERE house_id = $1;
